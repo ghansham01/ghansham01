@@ -29,17 +29,6 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB (Database)</b></td>
 </tr>
 </table>
-<br>
-<h2 align="center">📕 Featured repositories:</h2>
-<div align="center">
-<a href=""><img src="" alt="C"></a>
-<a href="https://github.com/samarjitsahoo/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=house-price-prediction&theme=transparent" alt="C++"></a>
-<a href="https://github.com/samarjitsahoo/youtube-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=youtube-clone&theme=transparent" alt="Java"></a>
-<a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
-<a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
-<a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
-</div>
-<br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/>
 </p>
