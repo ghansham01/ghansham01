@@ -23,7 +23,7 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS (Stylesheet)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br><b>Tailwind (Framework)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="65" height="65" alt="SCSS"/><br><b>flask/Django (Library)</b></td>
+   <td align="center"><img src="https://www.bing.com/images/search?view=detailV2&ccid=XUcv32sa&id=F0748C1F617AF7B84D74056293F31352DAB8403A&thid=OIP.XUcv32sagzmu6EKN_mH0CQHaDt&mediaurl=https%3a%2f%2fmiro.medium.com%2fv2%2fresize%3afit%3a1200%2f1*M8FUzHYwyDLa8FZ_j0mjOQ.jpeg&exph=600&expw=1200&q=flask+or+djngo+svg&simid=607994798376951164&FORM=IRPRST&ck=C980381D47EE0D26BC3F11AD0D68E4BE&selectedIndex=13&itb=0" width="65" height="65" alt="SCSS"/><br><b>flask/Django (Library)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="65" height="65" alt="React"/><br><b>React JS (Library)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node JS (Runtime)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB (Database)</b></td>
