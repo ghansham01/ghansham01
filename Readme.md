@@ -34,15 +34,11 @@
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="mailto:samarjit9203@gmail.com">
+  <a href="mailto:bindumadhavshrotriy@gmail.com">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit.vercel.app">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjitsahoo/">
+  <a href="https://www.linkedin.com/in/bindu-madhav-shrotriy-a29419232/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
